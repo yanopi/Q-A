@@ -19,7 +19,7 @@ Environment:
 - CHROME_CRASHPAD_PIPE_NAME: 11.|pipe\crashpad_20552_PUXJXYGJQIKKYCUV
 -CHROME RESTART:NW.js！エラー：Nw.jsで問題が発生しました。今すぐ再起動しますか？ILEFT_TO_RIGHT
 - CommonProgramFiles: C:\Program Files\Common Files  
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿  
 
 上記エラー内容の場合
 pgAdmin 4のサーバーに接続できないというエラーメッセージが表示されています。以下の手順で問題を解決できるか確認してください。  
